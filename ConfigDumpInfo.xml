@@ -7,11 +7,12 @@
 		</Metadata>
 		<Metadata name="Catalog.Товары" id="2f25afd6-c0e3-401c-a436-f363c47b5fff" configVersion="b7a98c9807986042a1edaa68813c4a5100000000"/>
 		<Metadata name="Configuration.Конфигурация" id="264a9fd8-5a45-4c3a-a672-92d55cae971a" configVersion="318c5db0a7fd1841b55d0336ca7b33a400000000"/>
-		<Metadata name="Document.Приход" id="812749b4-3346-43ad-954a-d9df8ae072df" configVersion="d608866095bbcb49bebd9e58170b412c00000000">
+		<Metadata name="Document.Приход" id="812749b4-3346-43ad-954a-d9df8ae072df" configVersion="7adc9c8d2f02ca47a00ec638d7ebac3600000000">
 			<Metadata name="Document.Приход.TabularSection.Товары.Attribute.Товар" id="6ddf359c-d7c9-45d0-a928-29f57c049b17"/>
 			<Metadata name="Document.Приход.TabularSection.Товары.Attribute.Количество" id="78a7da35-75b4-4a1f-af5e-a0be23baacfe"/>
 			<Metadata name="Document.Приход.TabularSection.Товары" id="83f2c853-366f-4ea5-9f77-96f1878fee6f"/>
 		</Metadata>
+		<Metadata name="Document.Приход.ObjectModule" id="812749b4-3346-43ad-954a-d9df8ae072df.0" configVersion="c6d503ef295db34f8e31082a97cdf49600000000"/>
 		<Metadata name="Language.Русский" id="596bc8c5-bc57-46e0-a0d5-5fb2df10fd78" configVersion="7efb53c87a7e224ba1fceaebbd707c4500000000"/>
 		<Metadata name="Role.ПолныеПрава" id="9ed42d71-90d1-43d6-8e9d-6b59156e1ee3" configVersion="6e5c06402336f143ab323c0aa8b46e3900000000"/>
 		<Metadata name="Role.ПолныеПрава.Rights" id="9ed42d71-90d1-43d6-8e9d-6b59156e1ee3.0" configVersion="26d166475c36434d816552ef0c1d4e5800000000"/>
