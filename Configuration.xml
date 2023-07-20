@@ -1,34 +1,34 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<Configuration uuid="264a9fd8-5a45-4c3a-a672-92d55cae971a">
+	<Configuration uuid="961b9548-2075-475d-a75b-33ba4c0afbc2">
 		<InternalInfo>
 			<xr:ContainedObject>
 				<xr:ClassId>9cd510cd-abfc-11d4-9434-004095e12fc7</xr:ClassId>
-				<xr:ObjectId>434691ed-e55b-4e29-882f-42cd050675b7</xr:ObjectId>
+				<xr:ObjectId>d8c6c50c-5636-4a63-ad1c-912af78aa8a4</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9fcd25a0-4822-11d4-9414-008048da11f9</xr:ClassId>
-				<xr:ObjectId>a728eb23-eb8b-4c72-b535-175e5502f299</xr:ObjectId>
+				<xr:ObjectId>9016bb84-78fe-481f-ad50-cc7c82489b6f</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e3687481-0a87-462c-a166-9f34594f9bba</xr:ClassId>
-				<xr:ObjectId>4f919ced-30d2-4f5f-85d6-153c8c05e2b9</xr:ObjectId>
+				<xr:ObjectId>86d6b229-4621-4f0a-97f4-15d61260cec6</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>9de14907-ec23-4a07-96f0-85521cb6b53b</xr:ClassId>
-				<xr:ObjectId>9a1cf076-2092-4d9c-8a69-a67a57849087</xr:ObjectId>
+				<xr:ObjectId>38ef897c-3454-4fa5-b607-c44b9fd52b19</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>51f2d5d8-ea4d-4064-8892-82951750031e</xr:ClassId>
-				<xr:ObjectId>c891471d-1d1f-48f1-b9fd-1e38942db713</xr:ObjectId>
+				<xr:ObjectId>80907d81-4a7f-48b0-827a-01e741c39815</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>e68182ea-4237-4383-967f-90c1e3370bc7</xr:ClassId>
-				<xr:ObjectId>1425c07d-580b-4ed8-9730-83db1bce44dc</xr:ObjectId>
+				<xr:ObjectId>e32071e6-d082-46a3-a0e7-33708dcfb923</xr:ObjectId>
 			</xr:ContainedObject>
 			<xr:ContainedObject>
 				<xr:ClassId>fb282519-d103-4dd3-bc12-cb271d631dfc</xr:ClassId>
-				<xr:ObjectId>9b4ccb7b-d2df-4147-b5e6-2c79ad6feb4f</xr:ObjectId>
+				<xr:ObjectId>fe239703-6793-4035-a235-5b1ffa29314c</xr:ObjectId>
 			</xr:ContainedObject>
 		</InternalInfo>
 		<Properties>
@@ -43,8 +43,8 @@
 			</UsePurposes>
 			<ScriptVariant>Russian</ScriptVariant>
 			<DefaultRoles/>
-			<Vendor>Test</Vendor>
-			<Version>1.0.0.1</Version>
+			<Vendor/>
+			<Version/>
 			<UpdateCatalogAddress/>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
 			<UseManagedFormInOrdinaryApplication>false</UseManagedFormInOrdinaryApplication>
@@ -224,10 +224,8 @@
 		</Properties>
 		<ChildObjects>
 			<Language>Русский</Language>
-			<Role>ПолныеПрава</Role>
 			<Catalog>Товары</Catalog>
 			<Document>Приход</Document>
-			<AccumulationRegister>Продажи</AccumulationRegister>
 		</ChildObjects>
 	</Configuration>
 </MetaDataObject>

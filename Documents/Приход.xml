@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
-	<Document uuid="812749b4-3346-43ad-954a-d9df8ae072df">
+	<Document uuid="a33ad37f-e2b1-40d4-98de-6b8fd06d4815">
 		<InternalInfo>
 			<xr:GeneratedType name="DocumentObject.Приход" category="Object">
-				<xr:TypeId>8c904337-d039-4ca1-b34c-8aefd17ea51a</xr:TypeId>
-				<xr:ValueId>b590ea8e-764f-4dbd-a86b-4302177fb6f6</xr:ValueId>
+				<xr:TypeId>7f00cd97-cbfd-4820-90d5-b9ee33920596</xr:TypeId>
+				<xr:ValueId>f2faa14e-c288-4f9d-97e0-3ffd5aa1f939</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentRef.Приход" category="Ref">
-				<xr:TypeId>405ee88d-2af9-4a01-8bba-5b3f6a25fbb9</xr:TypeId>
-				<xr:ValueId>22338b2d-5009-42c2-a418-1bf890254669</xr:ValueId>
+				<xr:TypeId>b4716938-f7fa-4628-9fe0-f00fe2d65f5c</xr:TypeId>
+				<xr:ValueId>0fe69ece-a6d3-4297-8153-7353ab10e164</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentSelection.Приход" category="Selection">
-				<xr:TypeId>a1e635d9-e594-450b-93af-1cc8129951ea</xr:TypeId>
-				<xr:ValueId>e9841946-af58-470e-8106-9bc221d03c9f</xr:ValueId>
+				<xr:TypeId>d983bd2e-ef95-47cb-ae54-7eb228062fa0</xr:TypeId>
+				<xr:ValueId>07fabb20-b346-4c1e-90ef-49e0ef62e7d6</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentList.Приход" category="List">
-				<xr:TypeId>0bf23548-82e0-472f-8705-c44264053a86</xr:TypeId>
-				<xr:ValueId>59de1ea7-ff00-44eb-9fc9-b7ee1ff7b02f</xr:ValueId>
+				<xr:TypeId>33f0f1e9-54f7-4b2a-826c-3c909b4b0afc</xr:TypeId>
+				<xr:ValueId>44120e21-6c6e-415f-997e-35cc8857251b</xr:ValueId>
 			</xr:GeneratedType>
 			<xr:GeneratedType name="DocumentManager.Приход" category="Manager">
-				<xr:TypeId>ae2e3720-4cc4-460d-a1df-af5d07cd35b0</xr:TypeId>
-				<xr:ValueId>cb8f79d0-e5ae-412e-afac-0aeabd2fc1c8</xr:ValueId>
+				<xr:TypeId>19326d1c-9d29-48b6-903a-2b1fcb7e632e</xr:TypeId>
+				<xr:ValueId>90ac5096-0eb2-409d-932a-a3def7d70eaf</xr:ValueId>
 			</xr:GeneratedType>
 		</InternalInfo>
 		<Properties>
@@ -60,9 +60,7 @@
 			<RegisterRecordsDeletion>AutoDeleteOnUnpost</RegisterRecordsDeletion>
 			<RegisterRecordsWritingOnPost>WriteSelected</RegisterRecordsWritingOnPost>
 			<SequenceFilling>AutoFill</SequenceFilling>
-			<RegisterRecords>
-				<xr:Item xsi:type="xr:MDObjectRef">AccumulationRegister.Продажи</xr:Item>
-			</RegisterRecords>
+			<RegisterRecords/>
 			<PostInPrivilegedMode>true</PostInPrivilegedMode>
 			<UnpostInPrivilegedMode>true</UnpostInPrivilegedMode>
 			<IncludeHelpInContents>false</IncludeHelpInContents>
@@ -79,112 +77,6 @@
 			<UpdateDataHistoryImmediatelyAfterWrite>false</UpdateDataHistoryImmediatelyAfterWrite>
 			<ExecuteAfterWriteDataHistoryVersionProcessing>false</ExecuteAfterWriteDataHistoryVersionProcessing>
 		</Properties>
-		<ChildObjects>
-			<TabularSection uuid="83f2c853-366f-4ea5-9f77-96f1878fee6f">
-				<InternalInfo>
-					<xr:GeneratedType name="DocumentTabularSection.Приход.Товары" category="TabularSection">
-						<xr:TypeId>da17533f-8ac6-4dd5-9544-aba7196b3a9e</xr:TypeId>
-						<xr:ValueId>a579ef06-fdb0-49d7-8f69-569d6988a624</xr:ValueId>
-					</xr:GeneratedType>
-					<xr:GeneratedType name="DocumentTabularSectionRow.Приход.Товары" category="TabularSectionRow">
-						<xr:TypeId>b10c0637-039b-4fff-8643-aa6ca6d0b8ad</xr:TypeId>
-						<xr:ValueId>1729a0a6-0a0b-45bc-b647-71dce6cc8284</xr:ValueId>
-					</xr:GeneratedType>
-				</InternalInfo>
-				<Properties>
-					<Name>Товары</Name>
-					<Synonym>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Товары</v8:content>
-						</v8:item>
-					</Synonym>
-					<Comment/>
-					<ToolTip/>
-					<FillChecking>DontCheck</FillChecking>
-				</Properties>
-				<ChildObjects>
-					<Attribute uuid="6ddf359c-d7c9-45d0-a928-29f57c049b17">
-						<Properties>
-							<Name>Товар</Name>
-							<Synonym>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Товар</v8:content>
-								</v8:item>
-							</Synonym>
-							<Comment/>
-							<Type>
-								<v8:Type>cfg:CatalogRef.Товары</v8:Type>
-							</Type>
-							<PasswordMode>false</PasswordMode>
-							<Format/>
-							<EditFormat/>
-							<ToolTip/>
-							<MarkNegatives>false</MarkNegatives>
-							<Mask/>
-							<MultiLine>false</MultiLine>
-							<ExtendedEdit>false</ExtendedEdit>
-							<MinValue xsi:nil="true"/>
-							<MaxValue xsi:nil="true"/>
-							<FillChecking>DontCheck</FillChecking>
-							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks/>
-							<ChoiceParameters/>
-							<QuickChoice>Auto</QuickChoice>
-							<CreateOnInput>Auto</CreateOnInput>
-							<ChoiceForm/>
-							<LinkByType/>
-							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-							<Indexing>DontIndex</Indexing>
-							<FullTextSearch>Use</FullTextSearch>
-							<DataHistory>Use</DataHistory>
-						</Properties>
-					</Attribute>
-					<Attribute uuid="78a7da35-75b4-4a1f-af5e-a0be23baacfe">
-						<Properties>
-							<Name>Количество</Name>
-							<Synonym>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Количество</v8:content>
-								</v8:item>
-							</Synonym>
-							<Comment/>
-							<Type>
-								<v8:Type>xs:decimal</v8:Type>
-								<v8:NumberQualifiers>
-									<v8:Digits>10</v8:Digits>
-									<v8:FractionDigits>0</v8:FractionDigits>
-									<v8:AllowedSign>Nonnegative</v8:AllowedSign>
-								</v8:NumberQualifiers>
-							</Type>
-							<PasswordMode>false</PasswordMode>
-							<Format/>
-							<EditFormat/>
-							<ToolTip/>
-							<MarkNegatives>false</MarkNegatives>
-							<Mask/>
-							<MultiLine>false</MultiLine>
-							<ExtendedEdit>false</ExtendedEdit>
-							<MinValue xsi:nil="true"/>
-							<MaxValue xsi:nil="true"/>
-							<FillChecking>DontCheck</FillChecking>
-							<ChoiceFoldersAndItems>Items</ChoiceFoldersAndItems>
-							<ChoiceParameterLinks/>
-							<ChoiceParameters/>
-							<QuickChoice>Auto</QuickChoice>
-							<CreateOnInput>Auto</CreateOnInput>
-							<ChoiceForm/>
-							<LinkByType/>
-							<ChoiceHistoryOnInput>Auto</ChoiceHistoryOnInput>
-							<Indexing>DontIndex</Indexing>
-							<FullTextSearch>Use</FullTextSearch>
-							<DataHistory>Use</DataHistory>
-						</Properties>
-					</Attribute>
-				</ChildObjects>
-			</TabularSection>
-		</ChildObjects>
+		<ChildObjects/>
 	</Document>
 </MetaDataObject>
